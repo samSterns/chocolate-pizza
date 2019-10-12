@@ -1,0 +1,10 @@
+ol {
+    list-style: none;
+}
+
+hr {
+    display: block;
+    border: 10px;
+    /* height: 100px, */
+    background-image: url('./assets/hr-img.png')
+}
